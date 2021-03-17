@@ -4,8 +4,8 @@
     * `Markdown`
     * `reStructuredText`
 * 制作工具
-    * `Sphinx`
     * `Mkdocs`
+    * `Sphinx`
     * `Pandoc`
 * 部署平台
     * `ReadTheDocs`
