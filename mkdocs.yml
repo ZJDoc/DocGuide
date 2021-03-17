@@ -67,3 +67,5 @@ nav:
         - '[reStructuredText]目录树': sphinx/rst-toc.md
         - Markdown配置: sphinx/markdown.md
         - '[Markdown]MathJax支持': sphinx/markdown-mathjax.md
+      - Pandoc:
+        - '[Pandoc]文档转换工具': pandoc/pandoc-文档转换工具.md
