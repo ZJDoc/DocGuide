@@ -1,7 +1,5 @@
 # DocGuide
 
-## 架构
-
 * 标记语言
     * `Markdown`
     * `reStructuredText`

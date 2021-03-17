@@ -52,3 +52,9 @@ nav:
       - '[CSDN]取出水印': markdown/csdn-去除水印.md
     - reStructuredText:
       - 常用语法: rst/常用语法.md
+    - Mkdocs:
+      - 引言: mkdocs/index.md
+      - 快速入门: mkdocs/get-started.md
+      - 配置文件解析: mkdocs/配置文件解析.md
+      - '[插件]MathJax': mkdocs/extension-mathjax.md
+      - '[插件]Emoji': mkdocs/extension-emoji.md
