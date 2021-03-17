@@ -38,23 +38,32 @@ extra_javascript:
 # 导航
 nav:
     - Home: index.md
-    - Markdown:
-      - 引言: markdown/index.md
-      - 页内跳转: markdown/页内跳转.md
-      - 表格: markdown/表格.md
-      - 数学公式: markdown/数学公式.md
-      - 截图公式转换: markdown/截图公式转换.md
-      - 代码块设置: markdown/代码块设置.md
-      - 标签页实现: markdown/标签页实现.md
-      - 自定义Markdown编辑器: markdown/自定义Markdown编辑器.md
-      - '[VSCode]Markdown': markdown/vscode-markdown.md
-      - '[CSDN]Markdown': markdown/csdn-markdown.md
-      - '[CSDN]取出水印': markdown/csdn-去除水印.md
-    - reStructuredText:
-      - 常用语法: rst/常用语法.md
-    - Mkdocs:
-      - 引言: mkdocs/index.md
-      - 快速入门: mkdocs/get-started.md
-      - 配置文件解析: mkdocs/配置文件解析.md
-      - '[插件]MathJax': mkdocs/extension-mathjax.md
-      - '[插件]Emoji': mkdocs/extension-emoji.md
+    - 标记语言:
+      - Markdown:
+        - 引言: markdown/index.md
+        - 页内跳转: markdown/页内跳转.md
+        - 表格: markdown/表格.md
+        - 数学公式: markdown/数学公式.md
+        - 截图公式转换: markdown/截图公式转换.md
+        - 代码块设置: markdown/代码块设置.md
+        - 标签页实现: markdown/标签页实现.md
+        - 自定义Markdown编辑器: markdown/自定义Markdown编辑器.md
+        - '[VSCode]Markdown': markdown/vscode-markdown.md
+        - '[CSDN]Markdown': markdown/csdn-markdown.md
+        - '[CSDN]取出水印': markdown/csdn-去除水印.md
+      - reStructuredText:
+        - 常用语法: rst/常用语法.md
+    - 制作工具:
+      - Mkdocs:
+        - 引言: mkdocs/index.md
+        - 快速入门: mkdocs/get-started.md
+        - 配置文件解析: mkdocs/配置文件解析.md
+        - '[插件]MathJax': mkdocs/extension-mathjax.md
+        - '[插件]Emoji': mkdocs/extension-emoji.md
+      - Sphinx:
+        - 引言: sphinx/index.md
+        - 快速入门: sphinx/get-started.md
+        - 主题: sphinx/theme.md
+        - '[reStructuredText]目录树': sphinx/rst-toc.md
+        - Markdown配置: sphinx/markdown.md
+        - '[Markdown]MathJax支持': sphinx/markdown-mathjax.md
