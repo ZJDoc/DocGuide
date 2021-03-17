@@ -50,3 +50,5 @@ nav:
       - '[VSCode]Markdown': markdown/vscode-markdown.md
       - '[CSDN]Markdown': markdown/csdn-markdown.md
       - '[CSDN]取出水印': markdown/csdn-去除水印.md
+    - reStructuredText:
+      - 常用语法: rst/常用语法.md
