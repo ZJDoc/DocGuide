@@ -69,3 +69,9 @@ nav:
         - '[Markdown]MathJax支持': sphinx/markdown-mathjax.md
       - Pandoc:
         - '[Pandoc]文档转换工具': pandoc/pandoc-文档转换工具.md
+    - 部署平台:
+      - ReadTheDocs:
+        - 介绍: readthedocs/index.md
+        - 发布: readthedocs/发布.md
+        - 徽章: readthedocs/badge.md
+        - ERROR: readthedocs/error.md 
