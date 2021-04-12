@@ -74,4 +74,5 @@ nav:
         - 介绍: readthedocs/index.md
         - 发布: readthedocs/发布.md
         - 徽章: readthedocs/badge.md
+        - "分离文档工程和代码工程的requirements.txt": readthedocs/requirements.md
         - ERROR: readthedocs/error.md 
